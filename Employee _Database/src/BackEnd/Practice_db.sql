@@ -1,0 +1,1 @@
+CREATE TABLE Employee(email varchar(100), password varchar(20), age numeric(3), name varchar(50));
